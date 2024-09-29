@@ -1,0 +1,6 @@
+DEFECT_SIZE,PRIORITY,CONFIDENCE,DEFECT_CODE
+,1,0.6,kaikou_Issue
+,2,0.1,PS_lssue
+,3,0.1,JiaoJie_Issue
+,4,0.7,WuJian
+

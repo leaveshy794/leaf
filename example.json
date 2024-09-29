@@ -1,0 +1,26 @@
+{
+  "image": [{
+      "path": "D://Download//yolov5-7.0//yolov5-7.0//test1.jpg",
+      "type":"color",
+      "uid":"000001",
+      "gid":"0",
+      "ATTR":{}
+    },
+            {
+      "path": "D://Download//yolov5-7.0//yolov5-7.0//test2.jpg",
+      "type":"color",
+      "uid":"000002",
+      "gid":"0",
+      "ATTR":{}
+    }
+
+   ],
+  "model":{"type":"AI"},
+  "info": {"PRODUCT_ID": "P647F1FEB100", 
+        "UNIT_ID": "AOI800",
+        "GLASS_ID": "768N3Z0025C4B",
+        "model_dir": "D://Download//yolov5-7.0//yolov5-7.0//weights",
+        "saveROOT_PATH": "D://Download//yolov5-7.0//yolov5-7.0",
+        "profile_path": "./profile_cs.csv" 
+  }
+}

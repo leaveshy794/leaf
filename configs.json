@@ -1,0 +1,32 @@
+{
+  "input": {
+    "train_data_root": "",
+    "val_data_root": ""
+  },
+  "output": {
+      "work_dir": ""
+    },
+  "param": {
+    "lr": 0.01,
+    "batch_size": 2,
+    "epochs": 2,
+    "image_size": 320,
+    "resume": "",
+    "restore": "False",
+    "model_structure": "m",
+    "multi_scale": "",
+    "image_weights":"False",
+    "scale": 0.5,
+    "iou_t": 0.6,
+    "flipud": 0.0,
+    "fliplr": 0.5,
+    "mosaic": 1.0,
+    "mixup": 0.0
+  },
+  "others": {
+    "kafka_address": "",
+    "topic": "",
+    "task_id": "",
+    "gpu_ids": [0]
+  }
+}
